@@ -1,0 +1,12 @@
+{
+     "Opportunity": [
+    {
+      "id": "006AP00000VTV27YAH",
+      "Delivery_Date__c": "2026-12-12",
+      "CCRNA_Shipment_BOL_number__c": "4613552282",
+      "CCRNA_pick_up_date__c": "2026-12-1",
+      "Sales_Order_Number__c": "3552282",
+      "OPP_Order_Confirmation_Number__c": "9202450350"
+    }
+]
+}
